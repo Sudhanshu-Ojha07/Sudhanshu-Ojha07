@@ -3,5 +3,4 @@
 
 - 🌱 I’m currently learning 'Deep learning and Gen AI' simultaneously.
 - 📫 You can reach me on sudhanshuojha01643@gmail.com
-
-
+- In the age of AI, Web developers specially frontend be like :  Ctrl C + Ctrl V 
